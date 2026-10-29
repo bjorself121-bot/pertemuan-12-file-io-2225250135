@@ -1,0 +1,3 @@
+Belajar File I/O Python
+Pertemuan 12 Algoritma Pemrograman
+Saya sedang belajar mode file Python.
